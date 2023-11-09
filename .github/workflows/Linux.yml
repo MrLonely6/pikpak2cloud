@@ -15,8 +15,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: 'Create Config'
         run: |
-          echo 'username: ${{ 9cff47cd5b@emailboxi.live }}
-          password: ${{ d5FFM8w37wTGzkDi }}' >> config.yml
+          echo 'username: ${{ r.eanesc.a.ek.o.r.di@gmail.com }}
+          password: ${{ 12345678a }}' >> config.yml
       - name: 'Download file from PikPak'
         run: |
           chmod a+x pikpakcli
